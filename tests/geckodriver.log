@@ -1,0 +1,41 @@
+1625468329410	geckodriver	INFO	Listening on 127.0.0.1:58732
+1625468332380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANUJ_S~1\\AppData\\Local\\Temp\\rust_mozprofilet73Zud"
+1625468335507	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anuj_shukla\\AppData\\Local\\Temp\\rust_mozprofilet73Zud\\search.json.mozlz4", (void 0)))
+1625468340899	Marionette	INFO	Listening on port 58740
+1625468341051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1625468352403	Marionette	INFO	Stopped listening on port 58740
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\anuj_shukla\AppData\Local\Temp\rust_mozprofilet73Zud\sessionCheckpoints.json.tmp) to destination(C:\Users\anuj_shukla\AppData\Local\Temp\rust_mozprofilet73Zud\sessionCheckpoints.json)
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashMonitor: Writing notifications to file after receiving profile-before-change
+          Phase: IOUtils: waiting for profileBeforeChange IO to complete
+          State: (none)
+WARNING: OperationError: Could not move temporary file(C:\Users\anuj_shukla\AppData\Local\Temp\rust_mozprofilet73Zud\sessionCheckpoints.json.tmp) to destination(C:\Users\anuj_shukla\AppData\Local\Temp\rust_mozprofilet73Zud\sessionCheckpoints.json)
+WARNING: observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\anuj_shukla\AppData\Local\Temp\rust_mozprofilet73Zud\sessionCheckpoints.json.tmp) to destination(C:\Users\anuj_shukla\AppData\Local\Temp\rust_mozprofilet73Zud\sessionCheckpoints.json)
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625468356036	geckodriver	INFO	Listening on 127.0.0.1:58682
+1625468359002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANUJ_S~1\\AppData\\Local\\Temp\\rust_mozprofileZUUbpa"
+1625468360109	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anuj_shukla\\AppData\\Local\\Temp\\rust_mozprofileZUUbpa\\search.json.mozlz4", (void 0)))
+1625468364460	Marionette	INFO	Listening on port 58690
+1625468364806	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\anuj_shukla\AppData\Local\Temp\rust_mozprofileZUUbpa\activity-stream.discovery_stream.json.tmp) to destination(C:\Users\anuj_shukla\AppData\Local\Temp\rust_mozprofileZUUbpa\activity-stream.discovery_stream.json)
+1625468368298	Marionette	INFO	Stopped listening on port 58690
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\anuj_shukla\AppData\Local\Temp\rust_mozprofileZUUbpa\sessionCheckpoints.json.tmp) to destination(C:\Users\anuj_shukla\AppData\Local\Temp\rust_mozprofileZUUbpa\sessionCheckpoints.json)
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashMonitor: Writing notifications to file after receiving profile-before-change
+          Phase: IOUtils: waiting for profileBeforeChange IO to complete
+          State: (none)
+WARNING: OperationError: Could not move temporary file(C:\Users\anuj_shukla\AppData\Local\Temp\rust_mozprofileZUUbpa\sessionCheckpoints.json.tmp) to destination(C:\Users\anuj_shukla\AppData\Local\Temp\rust_mozprofileZUUbpa\sessionCheckpoints.json)
+WARNING: observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\anuj_shukla\AppData\Local\Temp\rust_mozprofileZUUbpa\sessionCheckpoints.json.tmp) to destination(C:\Users\anuj_shukla\AppData\Local\Temp\rust_mozprofileZUUbpa\sessionCheckpoints.json)
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

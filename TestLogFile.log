@@ -1,0 +1,81 @@
+2021-06-26 18:16:33,094 : INFO : test_e2e : Test will run in chrome by default
+2021-06-26 18:50:46,549 : INFO : test_e2e : Test will run in chrome by default
+2021-06-26 18:51:29,924 : INFO : test_e2e : Test will run in chrome by default
+2021-06-26 19:10:52,395 : INFO : test_e2e : Test will run in chrome by default
+2021-06-26 19:11:09,030 : INFO : test_e2e : Test will run in chrome by default
+2021-06-26 19:12:25,749 : INFO : test_e2e : Test will run in chrome by default
+2021-06-26 19:13:09,024 : INFO : test_e2e : Test will run in chrome by default
+2021-06-26 19:18:42,495 : INFO : test_e2e : Test will run in chrome by default
+2021-06-28 11:50:09,363 : INFO : test_e2e : Test will run in chrome by default
+2021-06-28 11:55:50,187 : INFO : test_e2e : Test will run in chrome by default
+2021-06-28 11:56:35,303 : INFO : test_e2e : Test will run in chrome by default
+2021-06-28 11:59:59,267 : INFO : test_e2e : Test will run in chrome by default
+2021-06-28 12:01:37,540 : INFO : test_e2e : Test will run in chrome by default
+2021-06-28 12:01:57,330 : INFO : test_e2e : Test will run in chrome by default
+2021-07-01 10:05:08,883 : INFO : test_form : This is information log
+2021-07-01 10:10:04,154 : INFO : test_form : This is information log
+2021-07-01 10:10:04,313 : INFO : test_form : None
+2021-07-01 10:35:20,735 : INFO : test_form : Form submission test started
+2021-07-01 10:35:21,303 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-01 10:36:38,826 : INFO : test_form : Form submission test started
+2021-07-01 10:36:40,011 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-01 10:40:36,572 : INFO : test_e2e : Test will run in chrome by default
+2021-07-01 10:40:37,265 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 10:40:37,338 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 10:40:37,381 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 10:40:37,419 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 10:40:37,561 : INFO : test_e2e : Sending 'Ind' to search and select the country
+2021-07-01 10:51:21,385 : INFO : test_form : Form submission test started
+2021-07-01 10:51:21,386 : INFO : test_form : firstname: Anuj
+2021-07-01 10:51:21,981 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-01 10:51:52,595 : INFO : test_e2e : Test will run in chrome by default
+2021-07-01 10:51:53,433 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 10:51:53,507 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 10:51:53,558 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 10:51:53,603 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 10:51:53,754 : INFO : test_e2e : Sending 'Ind' to search and select the country
+2021-07-01 10:52:04,675 : INFO : test_form : Form submission test started
+2021-07-01 10:52:04,676 : INFO : test_form : firstname: Anuj
+2021-07-01 10:52:05,677 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-01 11:01:10,147 : INFO : test_e2e : Test will run in chrome by default
+2021-07-01 11:01:11,189 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 11:01:11,302 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 11:01:11,373 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 11:01:11,446 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 11:01:11,670 : INFO : test_e2e : Sending 'Ind' to search and select the country
+2021-07-01 11:01:23,259 : INFO : test_form : Form submission test started
+2021-07-01 11:01:23,260 : INFO : test_form : firstname: Anuj
+2021-07-01 11:01:24,246 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-01 11:42:50,042 : INFO : test_e2e : Test will run in chrome by default
+2021-07-01 11:42:51,071 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 11:42:51,185 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 11:42:51,255 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 11:42:51,326 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 11:42:51,559 : INFO : test_e2e : Sending 'Ind' to search and select the country
+2021-07-01 11:43:02,735 : INFO : test_form : Form submission test started
+2021-07-01 11:43:02,736 : INFO : test_form : firstname: Anuj
+2021-07-01 11:44:44,417 : INFO : test_e2e : Test will run in chrome by default
+2021-07-01 11:44:45,185 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 11:44:45,283 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 11:44:45,338 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 11:44:45,396 : INFO : test_e2e : The product selected :iphone X
+2021-07-01 11:44:45,602 : INFO : test_e2e : Sending 'Ind' to search and select the country
+2021-07-01 11:44:56,860 : INFO : test_form : Form submission test started
+2021-07-01 11:44:56,861 : INFO : test_form : firstname: Anuj
+2021-07-01 11:44:57,827 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-04 17:01:54,426 : INFO : test_e2e : Test will run in chrome by default
+2021-07-04 17:01:55,196 : INFO : test_e2e : The product selected :iphone X
+2021-07-04 17:01:55,433 : INFO : test_e2e : The product selected :iphone X
+2021-07-04 17:01:55,668 : INFO : test_e2e : The product selected :iphone X
+2021-07-04 17:01:55,889 : INFO : test_e2e : The product selected :iphone X
+2021-07-04 17:01:56,576 : INFO : test_e2e : Sending 'Ind' to search and select the country
+2021-07-04 17:02:12,454 : INFO : test_form : Form submission test started
+2021-07-04 17:02:12,455 : INFO : test_form : firstname: Anuj
+2021-07-04 17:02:13,069 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
