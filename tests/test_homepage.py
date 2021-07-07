@@ -12,7 +12,7 @@ class TestHomePage(BaseClass):
         log = self.logCapture()
         log.info("Form submission test started")
         homepage = HomePage(self.driver)
-        log.info("firstname: "+ getDataLoad['firstname'])
+        log.info("firstname: " + getDataLoad['firstname'])
         homepage.getuserName().send_keys(getDataLoad['firstname'])
         homepage.getemailID().send_keys(getDataLoad['email'])
         homepage.getpassWord().send_keys(getDataLoad['password'])
@@ -32,7 +32,7 @@ class TestHomePage(BaseClass):
 
         self.driver.find_element_by_css_selector(".btn-success").click()
         assert "Success!" in homepage.readsuccessAlert()
-        log.info("Form success message : "+ homepage.readsuccessAlert())
+        log.info("Form success message : " + homepage.readsuccessAlert())
         self.driver.refresh()
 
     # Data processing using fixture.
@@ -45,7 +45,7 @@ class TestHomePage(BaseClass):
     #   This is more optimized way of fetching data to testcases.
     """@pytest.fixture(params=[("TestUser", "testuser@gmail.com", "Test@123", "Male", "Student", "08Aug", "1990"),
                         ("TestUser1", "testuser2@gmail.com", "Test@123", "Female", "Employed", "08Aug", "1990")])"""
-    @pytest.fixture(params=HomePageData.test_homePage_Data)
+    # homePageData = HomePageData("C:\\Users\\anuj_shukla\\PycharmProjects\\WebAutoFramework\\testData\\testDataExcel.xlsx", "TC1")
+    @pytest.fixture(params=HomePageData.getDataExcel("C:\\Users\\anuj_shukla\\PycharmProjects\\WebAutoFramework\\testData\\testDataExcel.xlsx", "TC1"))
     def getDataLoad(self, request):
         return request.param
-

@@ -18,3 +18,123 @@ Success! The Form has been submitted successfully!.
 2021-07-05 12:29:26,777 : INFO : test_form : firstname: Anuj
 2021-07-05 12:29:27,643 : INFO : test_form : Form success message : ×
 Success! The Form has been submitted successfully!.
+2021-07-05 14:00:55,656 : INFO : test_e2e : Test will run in chrome by default
+2021-07-05 14:00:56,844 : INFO : test_e2e : The product selected :iphone X
+2021-07-05 14:00:57,084 : INFO : test_e2e : The product selected :iphone X
+2021-07-05 14:00:57,314 : INFO : test_e2e : The product selected :iphone X
+2021-07-05 14:00:57,540 : INFO : test_e2e : The product selected :iphone X
+2021-07-05 14:00:58,209 : INFO : test_e2e : Sending 'Ind' to search and select the country
+2021-07-05 14:01:14,204 : INFO : test_form : Form submission test started
+2021-07-05 14:01:14,204 : INFO : test_form : firstname: Anuj
+2021-07-05 14:01:14,815 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-06 09:42:22,912 : INFO : test_e2e : Test will run in chrome by default
+2021-07-06 09:42:23,858 : INFO : test_e2e : The product selected :iphone X
+2021-07-06 09:42:23,965 : INFO : test_e2e : The product selected :iphone X
+2021-07-06 09:42:24,048 : INFO : test_e2e : The product selected :iphone X
+2021-07-06 09:42:24,115 : INFO : test_e2e : The product selected :iphone X
+2021-07-06 09:42:24,288 : INFO : test_e2e : Sending 'Ind' to search and select the country
+2021-07-06 09:42:34,175 : INFO : test_form : Form submission test started
+2021-07-06 09:42:34,176 : INFO : test_form : firstname: Anuj
+2021-07-06 09:42:34,967 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-06 09:44:54,900 : INFO : test_e2e : Test will run in chrome by default
+2021-07-06 09:44:55,719 : INFO : test_e2e : The product selected :iphone X
+2021-07-06 09:44:55,953 : INFO : test_e2e : The product selected :iphone X
+2021-07-06 09:44:56,183 : INFO : test_e2e : The product selected :iphone X
+2021-07-06 09:44:56,418 : INFO : test_e2e : The product selected :iphone X
+2021-07-06 09:44:57,103 : INFO : test_e2e : Sending 'Ind' to search and select the country
+2021-07-06 09:45:13,356 : INFO : test_form : Form submission test started
+2021-07-06 09:45:13,357 : INFO : test_form : firstname: Anuj
+2021-07-06 09:45:13,992 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-06 10:24:29,319 : INFO : test_e2e : Test will run in chrome by default
+2021-07-06 10:24:30,176 : INFO : test_e2e : The product selected :iphone X
+2021-07-06 10:24:30,419 : INFO : test_e2e : The product selected :iphone X
+2021-07-06 10:24:30,645 : INFO : test_e2e : The product selected :iphone X
+2021-07-06 10:24:30,877 : INFO : test_e2e : The product selected :iphone X
+2021-07-06 10:24:31,552 : INFO : test_e2e : Sending 'Ind' to search and select the country
+2021-07-06 10:24:49,238 : INFO : test_form : Form submission test started
+2021-07-06 10:24:49,238 : INFO : test_form : firstname: Anuj
+2021-07-06 10:24:49,824 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-06 10:26:40,011 : INFO : test_e2e : Test will run in chrome by default
+2021-07-06 10:26:40,898 : INFO : test_e2e : The product selected :iphone X
+2021-07-06 10:26:40,997 : INFO : test_e2e : The product selected :iphone X
+2021-07-06 10:26:41,063 : INFO : test_e2e : The product selected :iphone X
+2021-07-06 10:26:41,122 : INFO : test_e2e : The product selected :iphone X
+2021-07-06 10:26:41,287 : INFO : test_e2e : Sending 'Ind' to search and select the country
+2021-07-06 10:26:50,842 : INFO : test_form : Form submission test started
+2021-07-06 10:26:50,842 : INFO : test_form : firstname: Anuj
+2021-07-06 10:26:51,583 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-07 11:16:40,627 : INFO : test_form : Form submission test started
+2021-07-07 11:16:40,628 : INFO : test_form : firstname: Anuj
+2021-07-07 11:18:56,991 : INFO : test_form : Form submission test started
+2021-07-07 11:18:56,992 : INFO : test_form : firstname: Anuj
+2021-07-07 11:21:58,437 : INFO : test_form : Form submission test started
+2021-07-07 11:21:58,438 : INFO : test_form : firstname: Anuj
+2021-07-07 11:21:58,889 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-07 11:22:40,164 : INFO : test_form : Form submission test started
+2021-07-07 11:22:40,165 : INFO : test_form : firstname: Anuj
+2021-07-07 11:22:40,596 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-07 11:23:12,942 : INFO : test_form : Form submission test started
+2021-07-07 11:23:12,942 : INFO : test_form : firstname: Anuj
+2021-07-07 11:30:05,104 : INFO : test_form : Form submission test started
+2021-07-07 11:30:05,105 : INFO : test_form : firstname: Anuj
+2021-07-07 11:30:05,697 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-07 11:31:33,633 : INFO : test_form : Form submission test started
+2021-07-07 11:31:33,634 : INFO : test_form : firstname: Anuj
+2021-07-07 11:31:34,214 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-07 11:44:50,021 : INFO : test_form : Form submission test started
+2021-07-07 11:44:50,021 : INFO : test_form : firstname: Anuj
+2021-07-07 11:44:50,648 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-07 11:47:09,222 : INFO : test_form : Form submission test started
+2021-07-07 11:47:09,222 : INFO : test_form : firstname: Test
+2021-07-07 11:47:09,801 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-07 12:19:59,288 : INFO : test_form : Form submission test started
+2021-07-07 12:19:59,628 : INFO : test_form : Form submission test started
+2021-07-07 12:19:59,628 : INFO : test_form : Form submission test started
+2021-07-07 12:19:59,967 : INFO : test_form : Form submission test started
+2021-07-07 12:19:59,967 : INFO : test_form : Form submission test started
+2021-07-07 12:19:59,967 : INFO : test_form : Form submission test started
+2021-07-07 12:20:00,286 : INFO : test_form : Form submission test started
+2021-07-07 12:20:00,286 : INFO : test_form : Form submission test started
+2021-07-07 12:20:00,286 : INFO : test_form : Form submission test started
+2021-07-07 12:20:00,286 : INFO : test_form : Form submission test started
+2021-07-07 12:20:00,616 : INFO : test_form : Form submission test started
+2021-07-07 12:20:00,616 : INFO : test_form : Form submission test started
+2021-07-07 12:20:00,616 : INFO : test_form : Form submission test started
+2021-07-07 12:20:00,616 : INFO : test_form : Form submission test started
+2021-07-07 12:20:00,616 : INFO : test_form : Form submission test started
+2021-07-07 12:20:00,949 : INFO : test_form : Form submission test started
+2021-07-07 12:20:00,949 : INFO : test_form : Form submission test started
+2021-07-07 12:20:00,949 : INFO : test_form : Form submission test started
+2021-07-07 12:20:00,949 : INFO : test_form : Form submission test started
+2021-07-07 12:20:00,949 : INFO : test_form : Form submission test started
+2021-07-07 12:20:00,949 : INFO : test_form : Form submission test started
+2021-07-07 12:20:01,270 : INFO : test_form : Form submission test started
+2021-07-07 12:20:01,270 : INFO : test_form : Form submission test started
+2021-07-07 12:20:01,270 : INFO : test_form : Form submission test started
+2021-07-07 12:20:01,270 : INFO : test_form : Form submission test started
+2021-07-07 12:20:01,270 : INFO : test_form : Form submission test started
+2021-07-07 12:20:01,270 : INFO : test_form : Form submission test started
+2021-07-07 12:20:01,270 : INFO : test_form : Form submission test started
+2021-07-07 12:20:36,923 : INFO : test_form : Form submission test started
+2021-07-07 12:20:36,923 : INFO : test_form : firstname: Test
+2021-07-07 12:20:37,621 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-07 12:25:35,628 : INFO : test_form : Form submission test started
+2021-07-07 12:25:35,628 : INFO : test_form : firstname: Test
+2021-07-07 12:25:36,219 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-07 12:27:15,141 : INFO : test_form : Form submission test started
+2021-07-07 12:27:15,141 : INFO : test_form : firstname: Test
+2021-07-07 12:27:15,733 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
