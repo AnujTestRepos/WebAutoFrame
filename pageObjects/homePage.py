@@ -23,7 +23,7 @@ class HomePage:
     dropdown = (By.CSS_SELECTOR, "#exampleFormControlSelect1")
     radiobutton = (By.XPATH, "//form[contains(@class,'ng-pristine ng-invalid ng-touched')]/div[6]")
     bday = (By.CSS_SELECTOR, "input[name='bday']")
-    twowaytext = (By.XPATH, "//*[contains(@class,'ng-valid')]")
+    twowaytext = (By.XPATH, "//h4/input")
     successtext = (By.XPATH, "//*[contains(@class,'alert alert-success alert-dismissible')]")
 
     def shopItems(self):

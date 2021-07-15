@@ -30,6 +30,9 @@ class TestHomePage(BaseClass):
         homepage.getbDay().send_keys(Keys.ARROW_RIGHT)
         homepage.getbDay().send_keys(getDataLoad['yob'])
 
+        # homepage.gettwoWayText().clear()
+        # homepage.gettwoWayText().send_keys('Anuj Shukla')  # Input hardcode
+
         self.driver.find_element_by_css_selector(".btn-success").click()
         assert "Success!" in homepage.readsuccessAlert()
         log.info("Form success message : " + homepage.readsuccessAlert())
@@ -45,7 +48,9 @@ class TestHomePage(BaseClass):
     #   This is more optimized way of fetching data to testcases.
     """@pytest.fixture(params=[("TestUser", "testuser@gmail.com", "Test@123", "Male", "Student", "08Aug", "1990"),
                         ("TestUser1", "testuser2@gmail.com", "Test@123", "Female", "Employed", "08Aug", "1990")])"""
+
     # homePageData = HomePageData("C:\\Users\\anuj_shukla\\PycharmProjects\\WebAutoFramework\\testData\\testDataExcel.xlsx", "TC1")
-    @pytest.fixture(params=HomePageData.getDataExcel("C:\\Users\\anuj_shukla\\PycharmProjects\\WebAutoFramework\\testData\\testDataExcel.xlsx", "TC1"))
+    @pytest.fixture(params=HomePageData.getDataExcel(
+        "C:\\Users\\anuj_shukla\\PycharmProjects\\WebAutoFramework\\testData\\testDataExcel.xlsx", "TC1"))
     def getDataLoad(self, request):
         return request.param

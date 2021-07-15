@@ -138,3 +138,33 @@ Success! The Form has been submitted successfully!.
 2021-07-07 12:27:15,141 : INFO : test_form : firstname: Test
 2021-07-07 12:27:15,733 : INFO : test_form : Form success message : ×
 Success! The Form has been submitted successfully!.
+2021-07-09 10:16:58,178 : INFO : test_form : Form submission test started
+2021-07-09 10:16:58,179 : INFO : test_form : firstname: Test
+2021-07-09 10:17:56,041 : INFO : test_form : Form submission test started
+2021-07-09 10:17:56,042 : INFO : test_form : firstname: Test
+2021-07-09 10:18:26,964 : INFO : test_form : Form submission test started
+2021-07-09 10:18:26,964 : INFO : test_form : firstname: Test
+2021-07-09 10:18:27,591 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-09 10:20:18,473 : INFO : test_form : Form submission test started
+2021-07-09 10:20:18,473 : INFO : test_form : firstname: Test
+2021-07-09 10:23:47,257 : INFO : test_form : Form submission test started
+2021-07-09 10:23:47,257 : INFO : test_form : firstname: Test
+2021-07-09 10:23:47,912 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-09 10:24:44,011 : INFO : test_form : Form submission test started
+2021-07-09 10:24:44,012 : INFO : test_form : firstname: Test
+2021-07-09 10:24:44,682 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-09 10:25:18,485 : INFO : test_form : Form submission test started
+2021-07-09 10:25:18,486 : INFO : test_form : firstname: Test
+2021-07-09 10:25:19,074 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-09 10:26:08,861 : INFO : test_form : Form submission test started
+2021-07-09 10:26:08,862 : INFO : test_form : firstname: Test
+2021-07-09 10:26:09,559 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-09 10:27:03,128 : INFO : test_form : Form submission test started
+2021-07-09 10:27:03,128 : INFO : test_form : firstname: Test
+2021-07-09 10:27:03,718 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
