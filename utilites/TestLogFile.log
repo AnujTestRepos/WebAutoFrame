@@ -168,3 +168,21 @@ Success! The Form has been submitted successfully!.
 2021-07-09 10:27:03,128 : INFO : test_form : firstname: Test
 2021-07-09 10:27:03,718 : INFO : test_form : Form success message : ×
 Success! The Form has been submitted successfully!.
+2021-07-17 16:39:19,468 : INFO : test_form : Form submission test started
+2021-07-17 16:39:19,469 : INFO : test_form : firstname: Test
+2021-07-17 16:39:20,286 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-17 16:41:10,108 : INFO : test_form : Form submission test started
+2021-07-17 16:41:10,108 : INFO : test_form : firstname: Test
+2021-07-17 16:41:10,946 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-17 16:44:41,591 : INFO : test_form : Form submission test started
+2021-07-17 16:44:41,591 : INFO : test_form : firstname: Test
+2021-07-17 16:44:42,422 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-17 16:56:36,619 : INFO : test_form : Form submission test started
+2021-07-17 16:56:36,619 : INFO : test_form : firstname: Test
+2021-07-17 16:56:37,419 : INFO : test_form : Form success message : ×
+Success! The Form has been submitted successfully!.
+2021-07-17 16:57:56,595 : INFO : test_form : Form submission test started
+2021-07-17 16:57:56,595 : INFO : test_form : firstname: Test

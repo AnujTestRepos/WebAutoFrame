@@ -7,8 +7,10 @@ from selenium import webdriver
 
 driver = None
 
+
 def pytest_addoption(parser):
     parser.addoption("--browser_name", action="store", default="chrome", help="my options : chrome or firefox or Edge")
+    parser.addoption("--site_url", action="store", default="testUrl", help="UrlOptions : testUrl and prodUrl")
 
 
 @pytest.fixture(scope='class')
@@ -17,6 +19,9 @@ def setup(request):
 
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument("--start-maximized")
+
+    firefox_option = webdriver.FirefoxOptions()
+    firefox_option.add_argument("--start-maximized")
 
     # now here we will link hook(command line arg method to fixture)
     browser_name = request.config.getoption("--browser_name")
@@ -27,13 +32,19 @@ def setup(request):
                                   options=chrome_options)
     elif browser_name == "firefox":
         driver = webdriver.Firefox(executable_path="C:\\Users\\anuj_shukla\\PycharmProjects\\geckodriver-v0.29.1"
-                                                   "-win64\\geckodriver.exe")
+                                                   "-win64\\geckodriver.exe", options=firefox_option)
 
     elif browser_name == "edge":
         driver = webdriver.Edge(executable_path='C:\\Users\\anuj_shukla\\PycharmProjects'
                                                 '\\LearnPyhtonSelenium_RahulShetty\\edgedriver_win64\\msedgedriver.exe')
 
-    driver.get("https://rahulshettyacademy.com/angularpractice/")
+    url_option = request.config.getoption("--site_url")
+    if url_option == 'testUrl':
+        driver.get("https://rahulshettyacademy.com/angularpractice/")
+
+    elif url_option == 'prodUrl':
+        driver.get("https://rahulshettyacademy.com/angularpractice/")
+
     driver.maximize_window()
 
     # This 'request' instance will return the local diver object to class object(cls.driver)
